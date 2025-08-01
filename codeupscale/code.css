@@ -1,0 +1,142 @@
+.main{
+
+    display: flex;
+}
+
+.logo {
+
+height: 40px;
+width: 180px;
+margin-top: 10px;
+margin-left: 120px;
+margin-right: 67px;
+}
+
+.nav{
+
+display: flex;
+
+}
+
+.about{
+
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.hire{
+
+
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.careers{
+
+    margin-left: 20px;
+margin-right: 20px;
+
+}
+.button{
+
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: white;
+    color: blue;
+    border-radius: 10px;
+    border-color: blue;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+}
+
+.button2{
+
+background-color: blue;
+color: white;
+border-radius: 10px;
+border-color: blue;
+padding-left: 20px;
+padding-right: 20px;
+margin-top: 10px;
+margin-left: 10px;
+margin-bottom: 5px;
+font-weight: bold;
+
+}
+
+.head{
+
+
+font-size: 70px;
+margin-left: 30px;
+margin-bottom: 30px;
+margin-top: 120px;
+
+}
+
+.head2{
+
+color: blue;
+font-size: 73px;
+margin-left: 30px;
+margin-top: -37px;
+}
+
+.head3{
+
+color: blue;
+margin-left: 30px;
+font-size: 70px;
+margin-top: -50px;
+}
+
+.main2{
+
+margin: 0;
+
+
+}
+
+.text{
+
+
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+
+.image{
+width: 100%;
+margin-top: 80px;
+
+}
+
+
+.section{
+width: 50%;
+border-radius: 10px;
+border-color: blue;
+margin: 20px;
+border: 2px solid blue ; 
+box-shadow: 0px 30px 10px ;
+ padding: 20px;
+ margin-left: 50px;
+ border-radius: 15px;
+}
+.section:hover{
+    transform: scale(1.02); 
+    transition: all 0.3s ease-in-out;
+}
+
+.img{
+
+display: flex;
+
+
+
+
+}
